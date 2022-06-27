@@ -1,0 +1,164 @@
+body{
+    background-color: hsl(0, 0%, 98%);
+    font-family: Epilogue, sans-serif;
+}
+
+nav a{
+    text-decoration: none;
+    float: right;
+    margin-right: 50px;
+    color: hsl(0, 0%, 10%);
+}
+
+#illustration-1{
+    height: 300px;
+    width: 400px;
+    float: right;
+    margin-top: -140px;
+}
+
+#form{
+    margin-top: 100px;
+}
+
+#comment{
+    margin-top: 200px;
+    background-color: hsl(0, 0%, 95%);
+    padding: 50px;
+    font-family: Epilogue, sans-serif;
+}
+
+#comment a{
+    text-decoration: none;
+    color: hsl(0, 0%, 10%);
+}
+
+svg{
+    margin-top: 20px;
+    margin-bottom: -10;
+}
+
+#Fylo{
+    margin-left: 0px;
+    margin-top: -10;
+}
+
+#logo{
+    border: solid  0.00001rem;
+    box-shadow: 0.1mm 0.1mm 5px black;
+    border: none;
+    border-radius: 1rem;
+    margin-left: 100px;
+    margin-right: 900px;
+    margin-top: 20px;
+    padding: 10px;
+    padding-bottom: 20px;
+}
+
+#illustration-2{
+    height: 500px;
+    width: 600px;
+    float: right;
+    margin-top: -470px;
+}
+
+#footer div img{
+  height: 10px;
+  color: rgb(45, 45, 107)
+}
+
+#footer div #logo{
+    height: 60px;
+    float: left;
+    background-color: rgb(45, 45, 107);
+    border: none;
+    margin-top: -50px;
+}
+
+#footer div #phone{
+    float: left;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+#footer div #mail{
+    text-decoration: none;
+    color: black;
+}
+#footer #div1{
+    float: left;
+}
+
+#footer #div1,#div2,#div3{
+    float: right;
+    margin-right: 250px;
+    margin-top: -50px;
+}
+
+#footer #div4{
+    float: right;
+    margin-top: -50px;
+    margin-right: -550px;
+    height: 50px;
+}
+
+#footer #div4 img{
+    height: 30px;
+    color: rgb(45, 45, 107);
+}
+
+
+#footer{
+    background-color: rgb(45, 45, 107);
+    padding: 150px;
+}
+
+f
+
+#button1{
+    background-color: rgb(71, 71, 228);
+    color: hsl(0, 0%, 98%);
+}
+
+#footer1{
+    background-color: rgb(113, 113, 255);
+    padding: 30px;
+}
+
+#footer1 form{
+    float: right;
+    margin-right: 300px;
+    margin-top: -110px;
+
+}
+
+#footer1 form input{
+    padding: 10px;
+    padding-right: 100px;
+    border-radius: 0.2rem;
+    border: none;
+}
+
+#footer1 form button{
+    background-color: rgb(71, 71, 228);
+    color: hsl(0, 0%, 98%);
+    border: none;
+    padding: 10px;
+    border-radius: 0.2rem;
+}
+
+input{
+    padding: 10px;
+    padding-right: 100px;
+    border-radius: 0.2rem;
+    border: none;
+}
+button{
+    background-color: rgb(71, 71, 228);
+    color: hsl(0, 0%, 98%);
+    border: none;
+    padding: 10px;
+    border-radius: 0.2rem;
+    margin-left: 20px;
+    padding: 10px 20px;
+}
